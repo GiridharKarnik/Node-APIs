@@ -1,0 +1,19 @@
+{
+  "name": "node_api_play_play",
+  "version": "0.0.0",
+  "description": "Node API Play by Play",
+  "main": "app.js",
+  "author": "RP88",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiridharKarnik/Node-APIs.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiridharKarnik/Node-APIs/issues"
+  },
+  "homepage": "https://github.com/GiridharKarnik/Node-APIs#readme"
+}
