@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GiridharKarnik/Node-APIs/issues"
   },
-  "homepage": "https://github.com/GiridharKarnik/Node-APIs#readme"
+  "homepage": "https://github.com/GiridharKarnik/Node-APIs#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
